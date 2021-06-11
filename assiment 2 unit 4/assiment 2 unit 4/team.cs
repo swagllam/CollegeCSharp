@@ -22,8 +22,14 @@ namespace assiment_2_unit_4
 
         public void addParticipant(Participant p)
         {
-            member.Add (p);
-        }
+            if(member.Count >= 5)
+            {
+                Console.WriteLine("team is already full");
+            }else
+            {
+                member.Add(p);
+            }
+         }
 
         public void printTeam()
         {
