@@ -1,0 +1,7 @@
+C:\Users\758015\source\repos\assiment 2 unit 4\assiment 2 unit 4\obj\Debug\assiment 2 unit 4.csprojAssemblyReference.cache
+C:\Users\758015\source\repos\assiment 2 unit 4\assiment 2 unit 4\obj\Debug\assiment 2 unit 4.csproj.CoreCompileInputs.cache
+C:\Users\758015\source\repos\assiment 2 unit 4\assiment 2 unit 4\bin\Debug\assiment 2 unit 4.exe.config
+C:\Users\758015\source\repos\assiment 2 unit 4\assiment 2 unit 4\bin\Debug\assiment 2 unit 4.exe
+C:\Users\758015\source\repos\assiment 2 unit 4\assiment 2 unit 4\bin\Debug\assiment 2 unit 4.pdb
+C:\Users\758015\source\repos\assiment 2 unit 4\assiment 2 unit 4\obj\Debug\assiment 2 unit 4.exe
+C:\Users\758015\source\repos\assiment 2 unit 4\assiment 2 unit 4\obj\Debug\assiment 2 unit 4.pdb
